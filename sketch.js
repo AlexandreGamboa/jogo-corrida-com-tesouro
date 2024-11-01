@@ -92,7 +92,7 @@ function draw() {
         //destrua todos os grupos
         // defina setvelocityEach como 0 para todos os grupos
     }
-    if(treasureCollection >= 3000){
+    if(treasureCollection >= 3500){
       youWin.visible = true;
       gameState="WIN";
     }
